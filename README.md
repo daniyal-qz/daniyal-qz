@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**daniyal-qz/daniyal-qz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://instagram.com/whitedanz" target="_blank">
+  <img src="/img/Frame.svg" alt="Instagram Profile Card" width="100%" max-width="550px" />
+</a>
 
-Here are some ideas to get you started:
+<br clear="left"/>
+<br />
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ikq3skdgzdq7emt6yrw7sed6wy&amp;theme=dark&amp;count=1&amp;width=630&amp;radius=12&amp;footer=wave" />
+  <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ikq3skdgzdq7emt6yrw7sed6wy&amp;theme=light&amp;count=1&amp;width=630&amp;radius=12&amp;footer=wave" />
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31ikq3skdgzdq7emt6yrw7sed6wy&amp;theme=dark&amp;count=1&amp;width=630&amp;radius=12&amp;footer=wave" alt="Spotify recently played" width="100%" />
+</picture>
+

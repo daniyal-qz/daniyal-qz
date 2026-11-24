@@ -15,8 +15,8 @@
 <br/>
 <br/>
 
-<a href="https://instagram.com/whitedanz" target="_blank">
+<!-- <a href="https://instagram.com/whitedanz" target="_blank">
   <img src="/img/instagram-profile.svg" alt="Instagram Profile Card" width="100%" max-width="550px" />
-</a>
+</a> -->
 
 <!-- gokil ngga mas? --> 
